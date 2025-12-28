@@ -1,1 +1,1 @@
-# freeCodeCamp-Build-a-Celestial-Bodies-Database-universe.sql
+# freeCodeCamp-Build-a-Celestial-Bodies-Database-universe
